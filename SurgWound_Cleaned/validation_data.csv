@@ -1,0 +1,501 @@
+image_id,filename,question,answer,task_type
+1.jpg_wound_location,validation\images\1.jpg_wound_location.jpg,What is the wound location of this surgical wound?,Ankle,multi_choice
+1.jpg_healing_status,validation\images\1.jpg_healing_status.jpg,What is the healing status of this surgical healing?,Healed,multi_choice
+1.jpg_closure_method,validation\images\1.jpg_closure_method.jpg,What is the closure method of this surgical wound?,Invisible,multi_choice
+1.jpg_exudate_type,validation\images\1.jpg_exudate_type.jpg,What is the exudate type of this surgical wound?,Non-existent,multi_choice
+1.jpg_edema,validation\images\1.jpg_edema.jpg,Has edema developed in this surgical wound?,Existent,multi_choice
+1.jpg_urgency_level,validation\images\1.jpg_urgency_level.jpg,What is the urgency level of this surgical wound?,Home Care (Green): Manage with routine care,multi_choice
+1.jpg_infection_risk_assessment,validation\images\1.jpg_infection_risk_assessment.jpg,What is the infection risk assessment of this surgical wound?,Low,multi_choice
+1.jpg_erythema,validation\images\1.jpg_erythema.jpg,Has erythema developed in this surgical wound?,Non-existent,multi_choice
+12.jpg_infection_risk_assessment,validation\images\12.jpg_infection_risk_assessment.jpg,What is the infection risk assessment of this surgical wound?,Medium,multi_choice
+12.jpg_edema,validation\images\12.jpg_edema.jpg,Has edema developed in this surgical wound?,Non-existent,multi_choice
+12.jpg_erythema,validation\images\12.jpg_erythema.jpg,Has erythema developed in this surgical wound?,Existent,multi_choice
+12.jpg_closure_method,validation\images\12.jpg_closure_method.jpg,What is the closure method of this surgical wound?,Sutures,multi_choice
+12.jpg_wound_location,validation\images\12.jpg_wound_location.jpg,What is the wound location of this surgical wound?,Abdomen,multi_choice
+12.jpg_urgency_level,validation\images\12.jpg_urgency_level.jpg,What is the urgency level of this surgical wound?,Clinic Visit (Yellow): Requires professional evaluation within 48 hours,multi_choice
+12.jpg_exudate_type,validation\images\12.jpg_exudate_type.jpg,What is the exudate type of this surgical wound?,Purulent,multi_choice
+12.jpg_healing_status,validation\images\12.jpg_healing_status.jpg,What is the healing status of this surgical healing?,Not Healed,multi_choice
+20.jpg_edema,validation\images\20.jpg_edema.jpg,Has edema developed in this surgical wound?,Non-existent,multi_choice
+20.jpg_urgency_level,validation\images\20.jpg_urgency_level.jpg,What is the urgency level of this surgical wound?,Home Care (Green): Manage with routine care,multi_choice
+20.jpg_infection_risk_assessment,validation\images\20.jpg_infection_risk_assessment.jpg,What is the infection risk assessment of this surgical wound?,Low,multi_choice
+20.jpg_wound_location,validation\images\20.jpg_wound_location.jpg,What is the wound location of this surgical wound?,Cervical region,multi_choice
+20.jpg_erythema,validation\images\20.jpg_erythema.jpg,Has erythema developed in this surgical wound?,Existent,multi_choice
+20.jpg_exudate_type,validation\images\20.jpg_exudate_type.jpg,What is the exudate type of this surgical wound?,Non-existent,multi_choice
+20.jpg_closure_method,validation\images\20.jpg_closure_method.jpg,What is the closure method of this surgical wound?,Adhesives,multi_choice
+20.jpg_healing_status,validation\images\20.jpg_healing_status.jpg,What is the healing status of this surgical healing?,Healed,multi_choice
+47.jpg_erythema,validation\images\47.jpg_erythema.jpg,Has erythema developed in this surgical wound?,Existent,multi_choice
+47.jpg_edema,validation\images\47.jpg_edema.jpg,Has edema developed in this surgical wound?,Existent,multi_choice
+47.jpg_exudate_type,validation\images\47.jpg_exudate_type.jpg,What is the exudate type of this surgical wound?,Non-existent,multi_choice
+47.jpg_wound_location,validation\images\47.jpg_wound_location.jpg,What is the wound location of this surgical wound?,Abdomen,multi_choice
+47.jpg_closure_method,validation\images\47.jpg_closure_method.jpg,What is the closure method of this surgical wound?,Sutures,multi_choice
+47.jpg_infection_risk_assessment,validation\images\47.jpg_infection_risk_assessment.jpg,What is the infection risk assessment of this surgical wound?,Medium,multi_choice
+47.jpg_urgency_level,validation\images\47.jpg_urgency_level.jpg,What is the urgency level of this surgical wound?,Clinic Visit (Yellow): Requires professional evaluation within 48 hours,multi_choice
+47.jpg_healing_status,validation\images\47.jpg_healing_status.jpg,What is the healing status of this surgical healing?,Not Healed,multi_choice
+50.jpg_infection_risk_assessment,validation\images\50.jpg_infection_risk_assessment.jpg,What is the infection risk assessment of this surgical wound?,Medium,multi_choice
+50.jpg_healing_status,validation\images\50.jpg_healing_status.jpg,What is the healing status of this surgical healing?,Not Healed,multi_choice
+50.jpg_wound_location,validation\images\50.jpg_wound_location.jpg,What is the wound location of this surgical wound?,Facial region,multi_choice
+50.jpg_erythema,validation\images\50.jpg_erythema.jpg,Has erythema developed in this surgical wound?,Existent,multi_choice
+50.jpg_urgency_level,validation\images\50.jpg_urgency_level.jpg,What is the urgency level of this surgical wound?,Clinic Visit (Yellow): Requires professional evaluation within 48 hours,multi_choice
+50.jpg_edema,validation\images\50.jpg_edema.jpg,Has edema developed in this surgical wound?,Non-existent,multi_choice
+50.jpg_exudate_type,validation\images\50.jpg_exudate_type.jpg,What is the exudate type of this surgical wound?,Seropurulent,multi_choice
+50.jpg_closure_method,validation\images\50.jpg_closure_method.jpg,What is the closure method of this surgical wound?,Sutures,multi_choice
+64.jpg_urgency_level,validation\images\64.jpg_urgency_level.jpg,What is the urgency level of this surgical wound?,Home Care (Green): Manage with routine care,multi_choice
+64.jpg_edema,validation\images\64.jpg_edema.jpg,Has edema developed in this surgical wound?,Non-existent,multi_choice
+64.jpg_closure_method,validation\images\64.jpg_closure_method.jpg,What is the closure method of this surgical wound?,Sutures,multi_choice
+64.jpg_infection_risk_assessment,validation\images\64.jpg_infection_risk_assessment.jpg,What is the infection risk assessment of this surgical wound?,Low,multi_choice
+64.jpg_wound_location,validation\images\64.jpg_wound_location.jpg,What is the wound location of this surgical wound?,Facial region,multi_choice
+64.jpg_erythema,validation\images\64.jpg_erythema.jpg,Has erythema developed in this surgical wound?,Non-existent,multi_choice
+64.jpg_exudate_type,validation\images\64.jpg_exudate_type.jpg,What is the exudate type of this surgical wound?,Non-existent,multi_choice
+64.jpg_healing_status,validation\images\64.jpg_healing_status.jpg,What is the healing status of this surgical healing?,Healed,multi_choice
+70.jpg_erythema,validation\images\70.jpg_erythema.jpg,Has erythema developed in this surgical wound?,Non-existent,multi_choice
+70.jpg_exudate_type,validation\images\70.jpg_exudate_type.jpg,What is the exudate type of this surgical wound?,Non-existent,multi_choice
+70.jpg_wound_location,validation\images\70.jpg_wound_location.jpg,What is the wound location of this surgical wound?,Facial region,multi_choice
+70.jpg_urgency_level,validation\images\70.jpg_urgency_level.jpg,What is the urgency level of this surgical wound?,Home Care (Green): Manage with routine care,multi_choice
+70.jpg_healing_status,validation\images\70.jpg_healing_status.jpg,What is the healing status of this surgical healing?,Healed,multi_choice
+70.jpg_closure_method,validation\images\70.jpg_closure_method.jpg,What is the closure method of this surgical wound?,Invisible,multi_choice
+70.jpg_edema,validation\images\70.jpg_edema.jpg,Has edema developed in this surgical wound?,Existent,multi_choice
+70.jpg_infection_risk_assessment,validation\images\70.jpg_infection_risk_assessment.jpg,What is the infection risk assessment of this surgical wound?,Low,multi_choice
+82.jpg_exudate_type,validation\images\82.jpg_exudate_type.jpg,What is the exudate type of this surgical wound?,Non-existent,multi_choice
+82.jpg_wound_location,validation\images\82.jpg_wound_location.jpg,What is the wound location of this surgical wound?,Cervical region,multi_choice
+82.jpg_healing_status,validation\images\82.jpg_healing_status.jpg,What is the healing status of this surgical healing?,Healed,multi_choice
+82.jpg_closure_method,validation\images\82.jpg_closure_method.jpg,What is the closure method of this surgical wound?,Sutures,multi_choice
+82.jpg_infection_risk_assessment,validation\images\82.jpg_infection_risk_assessment.jpg,What is the infection risk assessment of this surgical wound?,Low,multi_choice
+82.jpg_edema,validation\images\82.jpg_edema.jpg,Has edema developed in this surgical wound?,Non-existent,multi_choice
+82.jpg_erythema,validation\images\82.jpg_erythema.jpg,Has erythema developed in this surgical wound?,Non-existent,multi_choice
+82.jpg_urgency_level,validation\images\82.jpg_urgency_level.jpg,What is the urgency level of this surgical wound?,Home Care (Green): Manage with routine care,multi_choice
+84.jpg_exudate_type,validation\images\84.jpg_exudate_type.jpg,What is the exudate type of this surgical wound?,Non-existent,multi_choice
+84.jpg_erythema,validation\images\84.jpg_erythema.jpg,Has erythema developed in this surgical wound?,Non-existent,multi_choice
+84.jpg_edema,validation\images\84.jpg_edema.jpg,Has edema developed in this surgical wound?,Non-existent,multi_choice
+84.jpg_wound_location,validation\images\84.jpg_wound_location.jpg,What is the wound location of this surgical wound?,Abdomen,multi_choice
+84.jpg_urgency_level,validation\images\84.jpg_urgency_level.jpg,What is the urgency level of this surgical wound?,Home Care (Green): Manage with routine care,multi_choice
+84.jpg_infection_risk_assessment,validation\images\84.jpg_infection_risk_assessment.jpg,What is the infection risk assessment of this surgical wound?,Low,multi_choice
+84.jpg_healing_status,validation\images\84.jpg_healing_status.jpg,What is the healing status of this surgical healing?,Healed,multi_choice
+84.jpg_closure_method,validation\images\84.jpg_closure_method.jpg,What is the closure method of this surgical wound?,Invisible,multi_choice
+94.jpg_erythema,validation\images\94.jpg_erythema.jpg,Has erythema developed in this surgical wound?,Non-existent,multi_choice
+94.jpg_exudate_type,validation\images\94.jpg_exudate_type.jpg,What is the exudate type of this surgical wound?,Non-existent,multi_choice
+94.jpg_healing_status,validation\images\94.jpg_healing_status.jpg,What is the healing status of this surgical healing?,Healed,multi_choice
+94.jpg_wound_location,validation\images\94.jpg_wound_location.jpg,What is the wound location of this surgical wound?,Cervical region,multi_choice
+94.jpg_closure_method,validation\images\94.jpg_closure_method.jpg,What is the closure method of this surgical wound?,Invisible,multi_choice
+94.jpg_edema,validation\images\94.jpg_edema.jpg,Has edema developed in this surgical wound?,Non-existent,multi_choice
+94.jpg_infection_risk_assessment,validation\images\94.jpg_infection_risk_assessment.jpg,What is the infection risk assessment of this surgical wound?,Low,multi_choice
+94.jpg_urgency_level,validation\images\94.jpg_urgency_level.jpg,What is the urgency level of this surgical wound?,Home Care (Green): Manage with routine care,multi_choice
+95.jpg_erythema,validation\images\95.jpg_erythema.jpg,Has erythema developed in this surgical wound?,Existent,multi_choice
+95.jpg_edema,validation\images\95.jpg_edema.jpg,Has edema developed in this surgical wound?,Non-existent,multi_choice
+95.jpg_urgency_level,validation\images\95.jpg_urgency_level.jpg,What is the urgency level of this surgical wound?,Home Care (Green): Manage with routine care,multi_choice
+95.jpg_infection_risk_assessment,validation\images\95.jpg_infection_risk_assessment.jpg,What is the infection risk assessment of this surgical wound?,Medium,multi_choice
+95.jpg_healing_status,validation\images\95.jpg_healing_status.jpg,What is the healing status of this surgical healing?,Not Healed,multi_choice
+95.jpg_wound_location,validation\images\95.jpg_wound_location.jpg,What is the wound location of this surgical wound?,Ankle,multi_choice
+95.jpg_closure_method,validation\images\95.jpg_closure_method.jpg,What is the closure method of this surgical wound?,Sutures,multi_choice
+95.jpg_exudate_type,validation\images\95.jpg_exudate_type.jpg,What is the exudate type of this surgical wound?,Non-existent,multi_choice
+112.jpg_edema,validation\images\112.jpg_edema.jpg,Has edema developed in this surgical wound?,Non-existent,multi_choice
+112.jpg_closure_method,validation\images\112.jpg_closure_method.jpg,What is the closure method of this surgical wound?,Sutures,multi_choice
+112.jpg_exudate_type,validation\images\112.jpg_exudate_type.jpg,What is the exudate type of this surgical wound?,Non-existent,multi_choice
+112.jpg_wound_location,validation\images\112.jpg_wound_location.jpg,What is the wound location of this surgical wound?,Other,multi_choice
+112.jpg_healing_status,validation\images\112.jpg_healing_status.jpg,What is the healing status of this surgical healing?,Healed,multi_choice
+112.jpg_erythema,validation\images\112.jpg_erythema.jpg,Has erythema developed in this surgical wound?,Non-existent,multi_choice
+112.jpg_infection_risk_assessment,validation\images\112.jpg_infection_risk_assessment.jpg,What is the infection risk assessment of this surgical wound?,Low,multi_choice
+112.jpg_urgency_level,validation\images\112.jpg_urgency_level.jpg,What is the urgency level of this surgical wound?,Home Care (Green): Manage with routine care,multi_choice
+140.jpg_infection_risk_assessment,validation\images\140.jpg_infection_risk_assessment.jpg,What is the infection risk assessment of this surgical wound?,High,multi_choice
+140.jpg_urgency_level,validation\images\140.jpg_urgency_level.jpg,What is the urgency level of this surgical wound?,Emergency Care (Red): Seek immediate medical attention,multi_choice
+140.jpg_edema,validation\images\140.jpg_edema.jpg,Has edema developed in this surgical wound?,Existent,multi_choice
+140.jpg_erythema,validation\images\140.jpg_erythema.jpg,Has erythema developed in this surgical wound?,Existent,multi_choice
+140.jpg_exudate_type,validation\images\140.jpg_exudate_type.jpg,What is the exudate type of this surgical wound?,Sanguineous,multi_choice
+140.jpg_closure_method,validation\images\140.jpg_closure_method.jpg,What is the closure method of this surgical wound?,Invisible,multi_choice
+140.jpg_healing_status,validation\images\140.jpg_healing_status.jpg,What is the healing status of this surgical healing?,Not Healed,multi_choice
+140.jpg_wound_location,validation\images\140.jpg_wound_location.jpg,What is the wound location of this surgical wound?,Ankle,multi_choice
+149.jpg_healing_status,validation\images\149.jpg_healing_status.jpg,What is the healing status of this surgical healing?,Not Healed,multi_choice
+149.jpg_erythema,validation\images\149.jpg_erythema.jpg,Has erythema developed in this surgical wound?,Existent,multi_choice
+149.jpg_infection_risk_assessment,validation\images\149.jpg_infection_risk_assessment.jpg,What is the infection risk assessment of this surgical wound?,Medium,multi_choice
+149.jpg_urgency_level,validation\images\149.jpg_urgency_level.jpg,What is the urgency level of this surgical wound?,Clinic Visit (Yellow): Requires professional evaluation within 48 hours,multi_choice
+149.jpg_edema,validation\images\149.jpg_edema.jpg,Has edema developed in this surgical wound?,Non-existent,multi_choice
+149.jpg_closure_method,validation\images\149.jpg_closure_method.jpg,What is the closure method of this surgical wound?,Sutures,multi_choice
+149.jpg_exudate_type,validation\images\149.jpg_exudate_type.jpg,What is the exudate type of this surgical wound?,Non-existent,multi_choice
+149.jpg_wound_location,validation\images\149.jpg_wound_location.jpg,What is the wound location of this surgical wound?,Ankle,multi_choice
+157.jpg_healing_status,validation\images\157.jpg_healing_status.jpg,What is the healing status of this surgical healing?,Not Healed,multi_choice
+157.jpg_erythema,validation\images\157.jpg_erythema.jpg,Has erythema developed in this surgical wound?,Existent,multi_choice
+157.jpg_infection_risk_assessment,validation\images\157.jpg_infection_risk_assessment.jpg,What is the infection risk assessment of this surgical wound?,Medium,multi_choice
+157.jpg_urgency_level,validation\images\157.jpg_urgency_level.jpg,What is the urgency level of this surgical wound?,Clinic Visit (Yellow): Requires professional evaluation within 48 hours,multi_choice
+157.jpg_edema,validation\images\157.jpg_edema.jpg,Has edema developed in this surgical wound?,Existent,multi_choice
+157.jpg_closure_method,validation\images\157.jpg_closure_method.jpg,What is the closure method of this surgical wound?,Invisible,multi_choice
+157.jpg_exudate_type,validation\images\157.jpg_exudate_type.jpg,What is the exudate type of this surgical wound?,Non-existent,multi_choice
+157.jpg_wound_location,validation\images\157.jpg_wound_location.jpg,What is the wound location of this surgical wound?,Ankle,multi_choice
+163.jpg_healing_status,validation\images\163.jpg_healing_status.jpg,What is the healing status of this surgical healing?,Healed,multi_choice
+163.jpg_infection_risk_assessment,validation\images\163.jpg_infection_risk_assessment.jpg,What is the infection risk assessment of this surgical wound?,Low,multi_choice
+163.jpg_closure_method,validation\images\163.jpg_closure_method.jpg,What is the closure method of this surgical wound?,Sutures,multi_choice
+163.jpg_exudate_type,validation\images\163.jpg_exudate_type.jpg,What is the exudate type of this surgical wound?,Non-existent,multi_choice
+163.jpg_urgency_level,validation\images\163.jpg_urgency_level.jpg,What is the urgency level of this surgical wound?,Home Care (Green): Manage with routine care,multi_choice
+163.jpg_edema,validation\images\163.jpg_edema.jpg,Has edema developed in this surgical wound?,Existent,multi_choice
+163.jpg_erythema,validation\images\163.jpg_erythema.jpg,Has erythema developed in this surgical wound?,Existent,multi_choice
+163.jpg_wound_location,validation\images\163.jpg_wound_location.jpg,What is the wound location of this surgical wound?,Abdomen,multi_choice
+183.jpg_closure_method,validation\images\183.jpg_closure_method.jpg,What is the closure method of this surgical wound?,Sutures,multi_choice
+183.jpg_infection_risk_assessment,validation\images\183.jpg_infection_risk_assessment.jpg,What is the infection risk assessment of this surgical wound?,Low,multi_choice
+183.jpg_urgency_level,validation\images\183.jpg_urgency_level.jpg,What is the urgency level of this surgical wound?,Home Care (Green): Manage with routine care,multi_choice
+183.jpg_erythema,validation\images\183.jpg_erythema.jpg,Has erythema developed in this surgical wound?,Non-existent,multi_choice
+183.jpg_exudate_type,validation\images\183.jpg_exudate_type.jpg,What is the exudate type of this surgical wound?,Non-existent,multi_choice
+183.jpg_healing_status,validation\images\183.jpg_healing_status.jpg,What is the healing status of this surgical healing?,Not Healed,multi_choice
+183.jpg_edema,validation\images\183.jpg_edema.jpg,Has edema developed in this surgical wound?,Non-existent,multi_choice
+190.jpg_erythema,validation\images\190.jpg_erythema.jpg,Has erythema developed in this surgical wound?,Existent,multi_choice
+190.jpg_healing_status,validation\images\190.jpg_healing_status.jpg,What is the healing status of this surgical healing?,Not Healed,multi_choice
+190.jpg_edema,validation\images\190.jpg_edema.jpg,Has edema developed in this surgical wound?,Existent,multi_choice
+190.jpg_infection_risk_assessment,validation\images\190.jpg_infection_risk_assessment.jpg,What is the infection risk assessment of this surgical wound?,Medium,multi_choice
+190.jpg_exudate_type,validation\images\190.jpg_exudate_type.jpg,What is the exudate type of this surgical wound?,Serous,multi_choice
+190.jpg_urgency_level,validation\images\190.jpg_urgency_level.jpg,What is the urgency level of this surgical wound?,Clinic Visit (Yellow): Requires professional evaluation within 48 hours,multi_choice
+206.jpg_exudate_type,validation\images\206.jpg_exudate_type.jpg,What is the exudate type of this surgical wound?,Non-existent,multi_choice
+206.jpg_erythema,validation\images\206.jpg_erythema.jpg,Has erythema developed in this surgical wound?,Existent,multi_choice
+206.jpg_wound_location,validation\images\206.jpg_wound_location.jpg,What is the wound location of this surgical wound?,Other,multi_choice
+206.jpg_healing_status,validation\images\206.jpg_healing_status.jpg,What is the healing status of this surgical healing?,Healed,multi_choice
+206.jpg_urgency_level,validation\images\206.jpg_urgency_level.jpg,What is the urgency level of this surgical wound?,Home Care (Green): Manage with routine care,multi_choice
+206.jpg_infection_risk_assessment,validation\images\206.jpg_infection_risk_assessment.jpg,What is the infection risk assessment of this surgical wound?,Low,multi_choice
+207.jpg_wound_location,validation\images\207.jpg_wound_location.jpg,What is the wound location of this surgical wound?,Other,multi_choice
+207.jpg_urgency_level,validation\images\207.jpg_urgency_level.jpg,What is the urgency level of this surgical wound?,Clinic Visit (Yellow): Requires professional evaluation within 48 hours,multi_choice
+207.jpg_edema,validation\images\207.jpg_edema.jpg,Has edema developed in this surgical wound?,Existent,multi_choice
+207.jpg_healing_status,validation\images\207.jpg_healing_status.jpg,What is the healing status of this surgical healing?,Healed,multi_choice
+207.jpg_exudate_type,validation\images\207.jpg_exudate_type.jpg,What is the exudate type of this surgical wound?,Non-existent,multi_choice
+207.jpg_erythema,validation\images\207.jpg_erythema.jpg,Has erythema developed in this surgical wound?,Existent,multi_choice
+207.jpg_infection_risk_assessment,validation\images\207.jpg_infection_risk_assessment.jpg,What is the infection risk assessment of this surgical wound?,Medium,multi_choice
+216.jpg_edema,validation\images\216.jpg_edema.jpg,Has edema developed in this surgical wound?,Non-existent,multi_choice
+216.jpg_exudate_type,validation\images\216.jpg_exudate_type.jpg,What is the exudate type of this surgical wound?,Non-existent,multi_choice
+216.jpg_wound_location,validation\images\216.jpg_wound_location.jpg,What is the wound location of this surgical wound?,Facial region,multi_choice
+216.jpg_closure_method,validation\images\216.jpg_closure_method.jpg,What is the closure method of this surgical wound?,Sutures,multi_choice
+216.jpg_erythema,validation\images\216.jpg_erythema.jpg,Has erythema developed in this surgical wound?,Non-existent,multi_choice
+216.jpg_urgency_level,validation\images\216.jpg_urgency_level.jpg,What is the urgency level of this surgical wound?,Home Care (Green): Manage with routine care,multi_choice
+216.jpg_healing_status,validation\images\216.jpg_healing_status.jpg,What is the healing status of this surgical healing?,Not Healed,multi_choice
+216.jpg_infection_risk_assessment,validation\images\216.jpg_infection_risk_assessment.jpg,What is the infection risk assessment of this surgical wound?,Low,multi_choice
+284.jpg_edema,validation\images\284.jpg_edema.jpg,Has edema developed in this surgical wound?,Non-existent,multi_choice
+284.jpg_infection_risk_assessment,validation\images\284.jpg_infection_risk_assessment.jpg,What is the infection risk assessment of this surgical wound?,Low,multi_choice
+284.jpg_wound_location,validation\images\284.jpg_wound_location.jpg,What is the wound location of this surgical wound?,Manus,multi_choice
+284.jpg_exudate_type,validation\images\284.jpg_exudate_type.jpg,What is the exudate type of this surgical wound?,Non-existent,multi_choice
+284.jpg_erythema,validation\images\284.jpg_erythema.jpg,Has erythema developed in this surgical wound?,Non-existent,multi_choice
+284.jpg_urgency_level,validation\images\284.jpg_urgency_level.jpg,What is the urgency level of this surgical wound?,Home Care (Green): Manage with routine care,multi_choice
+284.jpg_healing_status,validation\images\284.jpg_healing_status.jpg,What is the healing status of this surgical healing?,Healed,multi_choice
+287.jpg_erythema,validation\images\287.jpg_erythema.jpg,Has erythema developed in this surgical wound?,Non-existent,multi_choice
+287.jpg_healing_status,validation\images\287.jpg_healing_status.jpg,What is the healing status of this surgical healing?,Healed,multi_choice
+287.jpg_urgency_level,validation\images\287.jpg_urgency_level.jpg,What is the urgency level of this surgical wound?,Home Care (Green): Manage with routine care,multi_choice
+287.jpg_edema,validation\images\287.jpg_edema.jpg,Has edema developed in this surgical wound?,Non-existent,multi_choice
+287.jpg_infection_risk_assessment,validation\images\287.jpg_infection_risk_assessment.jpg,What is the infection risk assessment of this surgical wound?,Low,multi_choice
+287.jpg_wound_location,validation\images\287.jpg_wound_location.jpg,What is the wound location of this surgical wound?,Facial region,multi_choice
+287.jpg_exudate_type,validation\images\287.jpg_exudate_type.jpg,What is the exudate type of this surgical wound?,Non-existent,multi_choice
+302.jpg_infection_risk_assessment,validation\images\302.jpg_infection_risk_assessment.jpg,What is the infection risk assessment of this surgical wound?,Low,multi_choice
+302.jpg_exudate_type,validation\images\302.jpg_exudate_type.jpg,What is the exudate type of this surgical wound?,Non-existent,multi_choice
+302.jpg_urgency_level,validation\images\302.jpg_urgency_level.jpg,What is the urgency level of this surgical wound?,Home Care (Green): Manage with routine care,multi_choice
+302.jpg_erythema,validation\images\302.jpg_erythema.jpg,Has erythema developed in this surgical wound?,Existent,multi_choice
+302.jpg_closure_method,validation\images\302.jpg_closure_method.jpg,What is the closure method of this surgical wound?,Sutures,multi_choice
+302.jpg_healing_status,validation\images\302.jpg_healing_status.jpg,What is the healing status of this surgical healing?,Healed,multi_choice
+302.jpg_wound_location,validation\images\302.jpg_wound_location.jpg,What is the wound location of this surgical wound?,Abdomen,multi_choice
+302.jpg_edema,validation\images\302.jpg_edema.jpg,Has edema developed in this surgical wound?,Non-existent,multi_choice
+314.jpg_infection_risk_assessment,validation\images\314.jpg_infection_risk_assessment.jpg,What is the infection risk assessment of this surgical wound?,Low,multi_choice
+314.jpg_erythema,validation\images\314.jpg_erythema.jpg,Has erythema developed in this surgical wound?,Existent,multi_choice
+314.jpg_healing_status,validation\images\314.jpg_healing_status.jpg,What is the healing status of this surgical healing?,Not Healed,multi_choice
+314.jpg_exudate_type,validation\images\314.jpg_exudate_type.jpg,What is the exudate type of this surgical wound?,Serous,multi_choice
+314.jpg_urgency_level,validation\images\314.jpg_urgency_level.jpg,What is the urgency level of this surgical wound?,Home Care (Green): Manage with routine care,multi_choice
+320.jpg_exudate_type,validation\images\320.jpg_exudate_type.jpg,What is the exudate type of this surgical wound?,Purulent,multi_choice
+320.jpg_infection_risk_assessment,validation\images\320.jpg_infection_risk_assessment.jpg,What is the infection risk assessment of this surgical wound?,Medium,multi_choice
+320.jpg_edema,validation\images\320.jpg_edema.jpg,Has edema developed in this surgical wound?,Non-existent,multi_choice
+320.jpg_urgency_level,validation\images\320.jpg_urgency_level.jpg,What is the urgency level of this surgical wound?,Clinic Visit (Yellow): Requires professional evaluation within 48 hours,multi_choice
+320.jpg_healing_status,validation\images\320.jpg_healing_status.jpg,What is the healing status of this surgical healing?,Not Healed,multi_choice
+320.jpg_erythema,validation\images\320.jpg_erythema.jpg,Has erythema developed in this surgical wound?,Existent,multi_choice
+320.jpg_closure_method,validation\images\320.jpg_closure_method.jpg,What is the closure method of this surgical wound?,Sutures,multi_choice
+342.jpg_urgency_level,validation\images\342.jpg_urgency_level.jpg,What is the urgency level of this surgical wound?,Home Care (Green): Manage with routine care,multi_choice
+342.jpg_erythema,validation\images\342.jpg_erythema.jpg,Has erythema developed in this surgical wound?,Existent,multi_choice
+342.jpg_infection_risk_assessment,validation\images\342.jpg_infection_risk_assessment.jpg,What is the infection risk assessment of this surgical wound?,Low,multi_choice
+342.jpg_edema,validation\images\342.jpg_edema.jpg,Has edema developed in this surgical wound?,Non-existent,multi_choice
+342.jpg_healing_status,validation\images\342.jpg_healing_status.jpg,What is the healing status of this surgical healing?,Healed,multi_choice
+342.jpg_exudate_type,validation\images\342.jpg_exudate_type.jpg,What is the exudate type of this surgical wound?,Non-existent,multi_choice
+342.jpg_closure_method,validation\images\342.jpg_closure_method.jpg,What is the closure method of this surgical wound?,Sutures,multi_choice
+342.jpg_wound_location,validation\images\342.jpg_wound_location.jpg,What is the wound location of this surgical wound?,Facial region,multi_choice
+378.jpg_urgency_level,validation\images\378.jpg_urgency_level.jpg,What is the urgency level of this surgical wound?,Clinic Visit (Yellow): Requires professional evaluation within 48 hours,multi_choice
+378.jpg_edema,validation\images\378.jpg_edema.jpg,Has edema developed in this surgical wound?,Non-existent,multi_choice
+378.jpg_infection_risk_assessment,validation\images\378.jpg_infection_risk_assessment.jpg,What is the infection risk assessment of this surgical wound?,Medium,multi_choice
+378.jpg_erythema,validation\images\378.jpg_erythema.jpg,Has erythema developed in this surgical wound?,Non-existent,multi_choice
+378.jpg_healing_status,validation\images\378.jpg_healing_status.jpg,What is the healing status of this surgical healing?,Not Healed,multi_choice
+378.jpg_wound_location,validation\images\378.jpg_wound_location.jpg,What is the wound location of this surgical wound?,Abdomen,multi_choice
+378.jpg_exudate_type,validation\images\378.jpg_exudate_type.jpg,What is the exudate type of this surgical wound?,Purulent,multi_choice
+379.jpg_edema,validation\images\379.jpg_edema.jpg,Has edema developed in this surgical wound?,Non-existent,multi_choice
+379.jpg_urgency_level,validation\images\379.jpg_urgency_level.jpg,What is the urgency level of this surgical wound?,Home Care (Green): Manage with routine care,multi_choice
+379.jpg_erythema,validation\images\379.jpg_erythema.jpg,Has erythema developed in this surgical wound?,Non-existent,multi_choice
+379.jpg_exudate_type,validation\images\379.jpg_exudate_type.jpg,What is the exudate type of this surgical wound?,Non-existent,multi_choice
+379.jpg_infection_risk_assessment,validation\images\379.jpg_infection_risk_assessment.jpg,What is the infection risk assessment of this surgical wound?,Low,multi_choice
+379.jpg_healing_status,validation\images\379.jpg_healing_status.jpg,What is the healing status of this surgical healing?,Healed,multi_choice
+379.jpg_closure_method,validation\images\379.jpg_closure_method.jpg,What is the closure method of this surgical wound?,Sutures,multi_choice
+387.jpg_closure_method,validation\images\387.jpg_closure_method.jpg,What is the closure method of this surgical wound?,Sutures,multi_choice
+387.jpg_exudate_type,validation\images\387.jpg_exudate_type.jpg,What is the exudate type of this surgical wound?,Non-existent,multi_choice
+387.jpg_infection_risk_assessment,validation\images\387.jpg_infection_risk_assessment.jpg,What is the infection risk assessment of this surgical wound?,Low,multi_choice
+387.jpg_healing_status,validation\images\387.jpg_healing_status.jpg,What is the healing status of this surgical healing?,Not Healed,multi_choice
+387.jpg_erythema,validation\images\387.jpg_erythema.jpg,Has erythema developed in this surgical wound?,Existent,multi_choice
+387.jpg_urgency_level,validation\images\387.jpg_urgency_level.jpg,What is the urgency level of this surgical wound?,Home Care (Green): Manage with routine care,multi_choice
+402.jpg_closure_method,validation\images\402.jpg_closure_method.jpg,What is the closure method of this surgical wound?,Sutures,multi_choice
+402.jpg_wound_location,validation\images\402.jpg_wound_location.jpg,What is the wound location of this surgical wound?,Other,multi_choice
+402.jpg_infection_risk_assessment,validation\images\402.jpg_infection_risk_assessment.jpg,What is the infection risk assessment of this surgical wound?,Low,multi_choice
+402.jpg_edema,validation\images\402.jpg_edema.jpg,Has edema developed in this surgical wound?,Non-existent,multi_choice
+402.jpg_urgency_level,validation\images\402.jpg_urgency_level.jpg,What is the urgency level of this surgical wound?,Home Care (Green): Manage with routine care,multi_choice
+402.jpg_healing_status,validation\images\402.jpg_healing_status.jpg,What is the healing status of this surgical healing?,Healed,multi_choice
+402.jpg_exudate_type,validation\images\402.jpg_exudate_type.jpg,What is the exudate type of this surgical wound?,Non-existent,multi_choice
+402.jpg_erythema,validation\images\402.jpg_erythema.jpg,Has erythema developed in this surgical wound?,Non-existent,multi_choice
+404.jpg_urgency_level,validation\images\404.jpg_urgency_level.jpg,What is the urgency level of this surgical wound?,Home Care (Green): Manage with routine care,multi_choice
+404.jpg_exudate_type,validation\images\404.jpg_exudate_type.jpg,What is the exudate type of this surgical wound?,Non-existent,multi_choice
+404.jpg_closure_method,validation\images\404.jpg_closure_method.jpg,What is the closure method of this surgical wound?,Invisible,multi_choice
+404.jpg_healing_status,validation\images\404.jpg_healing_status.jpg,What is the healing status of this surgical healing?,Healed,multi_choice
+404.jpg_infection_risk_assessment,validation\images\404.jpg_infection_risk_assessment.jpg,What is the infection risk assessment of this surgical wound?,Low,multi_choice
+404.jpg_erythema,validation\images\404.jpg_erythema.jpg,Has erythema developed in this surgical wound?,Non-existent,multi_choice
+404.jpg_edema,validation\images\404.jpg_edema.jpg,Has edema developed in this surgical wound?,Non-existent,multi_choice
+422.jpg_urgency_level,validation\images\422.jpg_urgency_level.jpg,What is the urgency level of this surgical wound?,Clinic Visit (Yellow): Requires professional evaluation within 48 hours,multi_choice
+422.jpg_infection_risk_assessment,validation\images\422.jpg_infection_risk_assessment.jpg,What is the infection risk assessment of this surgical wound?,Medium,multi_choice
+422.jpg_healing_status,validation\images\422.jpg_healing_status.jpg,What is the healing status of this surgical healing?,Not Healed,multi_choice
+422.jpg_erythema,validation\images\422.jpg_erythema.jpg,Has erythema developed in this surgical wound?,Existent,multi_choice
+425.jpg_exudate_type,validation\images\425.jpg_exudate_type.jpg,What is the exudate type of this surgical wound?,Non-existent,multi_choice
+425.jpg_erythema,validation\images\425.jpg_erythema.jpg,Has erythema developed in this surgical wound?,Non-existent,multi_choice
+425.jpg_wound_location,validation\images\425.jpg_wound_location.jpg,What is the wound location of this surgical wound?,Other,multi_choice
+425.jpg_infection_risk_assessment,validation\images\425.jpg_infection_risk_assessment.jpg,What is the infection risk assessment of this surgical wound?,Low,multi_choice
+425.jpg_urgency_level,validation\images\425.jpg_urgency_level.jpg,What is the urgency level of this surgical wound?,Home Care (Green): Manage with routine care,multi_choice
+425.jpg_edema,validation\images\425.jpg_edema.jpg,Has edema developed in this surgical wound?,Non-existent,multi_choice
+425.jpg_healing_status,validation\images\425.jpg_healing_status.jpg,What is the healing status of this surgical healing?,Healed,multi_choice
+430.jpg_exudate_type,validation\images\430.jpg_exudate_type.jpg,What is the exudate type of this surgical wound?,Non-existent,multi_choice
+430.jpg_erythema,validation\images\430.jpg_erythema.jpg,Has erythema developed in this surgical wound?,Non-existent,multi_choice
+430.jpg_urgency_level,validation\images\430.jpg_urgency_level.jpg,What is the urgency level of this surgical wound?,Home Care (Green): Manage with routine care,multi_choice
+430.jpg_healing_status,validation\images\430.jpg_healing_status.jpg,What is the healing status of this surgical healing?,Healed,multi_choice
+430.jpg_closure_method,validation\images\430.jpg_closure_method.jpg,What is the closure method of this surgical wound?,Invisible,multi_choice
+430.jpg_wound_location,validation\images\430.jpg_wound_location.jpg,What is the wound location of this surgical wound?,Cervical region,multi_choice
+430.jpg_edema,validation\images\430.jpg_edema.jpg,Has edema developed in this surgical wound?,Non-existent,multi_choice
+430.jpg_infection_risk_assessment,validation\images\430.jpg_infection_risk_assessment.jpg,What is the infection risk assessment of this surgical wound?,Low,multi_choice
+446.jpg_infection_risk_assessment,validation\images\446.jpg_infection_risk_assessment.jpg,What is the infection risk assessment of this surgical wound?,Low,multi_choice
+446.jpg_edema,validation\images\446.jpg_edema.jpg,Has edema developed in this surgical wound?,Non-existent,multi_choice
+446.jpg_urgency_level,validation\images\446.jpg_urgency_level.jpg,What is the urgency level of this surgical wound?,Home Care (Green): Manage with routine care,multi_choice
+446.jpg_exudate_type,validation\images\446.jpg_exudate_type.jpg,What is the exudate type of this surgical wound?,Non-existent,multi_choice
+446.jpg_closure_method,validation\images\446.jpg_closure_method.jpg,What is the closure method of this surgical wound?,Invisible,multi_choice
+446.jpg_healing_status,validation\images\446.jpg_healing_status.jpg,What is the healing status of this surgical healing?,Healed,multi_choice
+446.jpg_erythema,validation\images\446.jpg_erythema.jpg,Has erythema developed in this surgical wound?,Non-existent,multi_choice
+446.jpg_wound_location,validation\images\446.jpg_wound_location.jpg,What is the wound location of this surgical wound?,Ankle,multi_choice
+480.jpg_infection_risk_assessment,validation\images\480.jpg_infection_risk_assessment.jpg,What is the infection risk assessment of this surgical wound?,Low,multi_choice
+480.jpg_urgency_level,validation\images\480.jpg_urgency_level.jpg,What is the urgency level of this surgical wound?,Home Care (Green): Manage with routine care,multi_choice
+480.jpg_edema,validation\images\480.jpg_edema.jpg,Has edema developed in this surgical wound?,Non-existent,multi_choice
+480.jpg_erythema,validation\images\480.jpg_erythema.jpg,Has erythema developed in this surgical wound?,Non-existent,multi_choice
+480.jpg_exudate_type,validation\images\480.jpg_exudate_type.jpg,What is the exudate type of this surgical wound?,Non-existent,multi_choice
+480.jpg_closure_method,validation\images\480.jpg_closure_method.jpg,What is the closure method of this surgical wound?,Sutures,multi_choice
+480.jpg_healing_status,validation\images\480.jpg_healing_status.jpg,What is the healing status of this surgical healing?,Healed,multi_choice
+480.jpg_wound_location,validation\images\480.jpg_wound_location.jpg,What is the wound location of this surgical wound?,Ankle,multi_choice
+503.jpg_infection_risk_assessment,validation\images\503.jpg_infection_risk_assessment.jpg,What is the infection risk assessment of this surgical wound?,Low,multi_choice
+503.jpg_edema,validation\images\503.jpg_edema.jpg,Has edema developed in this surgical wound?,Non-existent,multi_choice
+503.jpg_urgency_level,validation\images\503.jpg_urgency_level.jpg,What is the urgency level of this surgical wound?,Home Care (Green): Manage with routine care,multi_choice
+503.jpg_exudate_type,validation\images\503.jpg_exudate_type.jpg,What is the exudate type of this surgical wound?,Non-existent,multi_choice
+503.jpg_closure_method,validation\images\503.jpg_closure_method.jpg,What is the closure method of this surgical wound?,Sutures,multi_choice
+503.jpg_healing_status,validation\images\503.jpg_healing_status.jpg,What is the healing status of this surgical healing?,Healed,multi_choice
+503.jpg_erythema,validation\images\503.jpg_erythema.jpg,Has erythema developed in this surgical wound?,Non-existent,multi_choice
+503.jpg_wound_location,validation\images\503.jpg_wound_location.jpg,What is the wound location of this surgical wound?,Other,multi_choice
+516.jpg_exudate_type,validation\images\516.jpg_exudate_type.jpg,What is the exudate type of this surgical wound?,Non-existent,multi_choice
+516.jpg_edema,validation\images\516.jpg_edema.jpg,Has edema developed in this surgical wound?,Non-existent,multi_choice
+516.jpg_urgency_level,validation\images\516.jpg_urgency_level.jpg,What is the urgency level of this surgical wound?,Home Care (Green): Manage with routine care,multi_choice
+516.jpg_healing_status,validation\images\516.jpg_healing_status.jpg,What is the healing status of this surgical healing?,Healed,multi_choice
+516.jpg_closure_method,validation\images\516.jpg_closure_method.jpg,What is the closure method of this surgical wound?,Sutures,multi_choice
+516.jpg_wound_location,validation\images\516.jpg_wound_location.jpg,What is the wound location of this surgical wound?,Other,multi_choice
+516.jpg_erythema,validation\images\516.jpg_erythema.jpg,Has erythema developed in this surgical wound?,Non-existent,multi_choice
+516.jpg_infection_risk_assessment,validation\images\516.jpg_infection_risk_assessment.jpg,What is the infection risk assessment of this surgical wound?,Low,multi_choice
+517.jpg_infection_risk_assessment,validation\images\517.jpg_infection_risk_assessment.jpg,What is the infection risk assessment of this surgical wound?,Low,multi_choice
+517.jpg_closure_method,validation\images\517.jpg_closure_method.jpg,What is the closure method of this surgical wound?,Sutures,multi_choice
+517.jpg_healing_status,validation\images\517.jpg_healing_status.jpg,What is the healing status of this surgical healing?,Healed,multi_choice
+517.jpg_edema,validation\images\517.jpg_edema.jpg,Has edema developed in this surgical wound?,Non-existent,multi_choice
+517.jpg_erythema,validation\images\517.jpg_erythema.jpg,Has erythema developed in this surgical wound?,Non-existent,multi_choice
+517.jpg_urgency_level,validation\images\517.jpg_urgency_level.jpg,What is the urgency level of this surgical wound?,Home Care (Green): Manage with routine care,multi_choice
+517.jpg_exudate_type,validation\images\517.jpg_exudate_type.jpg,What is the exudate type of this surgical wound?,Non-existent,multi_choice
+517.jpg_wound_location,validation\images\517.jpg_wound_location.jpg,What is the wound location of this surgical wound?,Facial region,multi_choice
+532.jpg_infection_risk_assessment,validation\images\532.jpg_infection_risk_assessment.jpg,What is the infection risk assessment of this surgical wound?,Low,multi_choice
+532.jpg_urgency_level,validation\images\532.jpg_urgency_level.jpg,What is the urgency level of this surgical wound?,Home Care (Green): Manage with routine care,multi_choice
+532.jpg_healing_status,validation\images\532.jpg_healing_status.jpg,What is the healing status of this surgical healing?,Not Healed,multi_choice
+550.jpg_healing_status,validation\images\550.jpg_healing_status.jpg,What is the healing status of this surgical healing?,Not Healed,multi_choice
+550.jpg_closure_method,validation\images\550.jpg_closure_method.jpg,What is the closure method of this surgical wound?,Sutures,multi_choice
+550.jpg_exudate_type,validation\images\550.jpg_exudate_type.jpg,What is the exudate type of this surgical wound?,Seropurulent,multi_choice
+550.jpg_erythema,validation\images\550.jpg_erythema.jpg,Has erythema developed in this surgical wound?,Existent,multi_choice
+550.jpg_urgency_level,validation\images\550.jpg_urgency_level.jpg,What is the urgency level of this surgical wound?,Home Care (Green): Manage with routine care,multi_choice
+550.jpg_edema,validation\images\550.jpg_edema.jpg,Has edema developed in this surgical wound?,Non-existent,multi_choice
+550.jpg_infection_risk_assessment,validation\images\550.jpg_infection_risk_assessment.jpg,What is the infection risk assessment of this surgical wound?,Low,multi_choice
+568.jpg_urgency_level,validation\images\568.jpg_urgency_level.jpg,What is the urgency level of this surgical wound?,Home Care (Green): Manage with routine care,multi_choice
+568.jpg_healing_status,validation\images\568.jpg_healing_status.jpg,What is the healing status of this surgical healing?,Healed,multi_choice
+568.jpg_infection_risk_assessment,validation\images\568.jpg_infection_risk_assessment.jpg,What is the infection risk assessment of this surgical wound?,Low,multi_choice
+597.jpg_erythema,validation\images\597.jpg_erythema.jpg,Has erythema developed in this surgical wound?,Non-existent,multi_choice
+597.jpg_edema,validation\images\597.jpg_edema.jpg,Has edema developed in this surgical wound?,Non-existent,multi_choice
+597.jpg_infection_risk_assessment,validation\images\597.jpg_infection_risk_assessment.jpg,What is the infection risk assessment of this surgical wound?,Low,multi_choice
+597.jpg_urgency_level,validation\images\597.jpg_urgency_level.jpg,What is the urgency level of this surgical wound?,Home Care (Green): Manage with routine care,multi_choice
+597.jpg_exudate_type,validation\images\597.jpg_exudate_type.jpg,What is the exudate type of this surgical wound?,Non-existent,multi_choice
+597.jpg_healing_status,validation\images\597.jpg_healing_status.jpg,What is the healing status of this surgical healing?,Healed,multi_choice
+627.jpg_erythema,validation\images\627.jpg_erythema.jpg,Has erythema developed in this surgical wound?,Existent,multi_choice
+627.jpg_exudate_type,validation\images\627.jpg_exudate_type.jpg,What is the exudate type of this surgical wound?,Purulent,multi_choice
+627.jpg_healing_status,validation\images\627.jpg_healing_status.jpg,What is the healing status of this surgical healing?,Not Healed,multi_choice
+627.jpg_wound_location,validation\images\627.jpg_wound_location.jpg,What is the wound location of this surgical wound?,Abdomen,multi_choice
+627.jpg_edema,validation\images\627.jpg_edema.jpg,Has edema developed in this surgical wound?,Non-existent,multi_choice
+627.jpg_infection_risk_assessment,validation\images\627.jpg_infection_risk_assessment.jpg,What is the infection risk assessment of this surgical wound?,Medium,multi_choice
+627.jpg_urgency_level,validation\images\627.jpg_urgency_level.jpg,What is the urgency level of this surgical wound?,Clinic Visit (Yellow): Requires professional evaluation within 48 hours,multi_choice
+653.jpg_wound_location,validation\images\653.jpg_wound_location.jpg,What is the wound location of this surgical wound?,Abdomen,multi_choice
+653.jpg_erythema,validation\images\653.jpg_erythema.jpg,Has erythema developed in this surgical wound?,Non-existent,multi_choice
+653.jpg_exudate_type,validation\images\653.jpg_exudate_type.jpg,What is the exudate type of this surgical wound?,Non-existent,multi_choice
+653.jpg_closure_method,validation\images\653.jpg_closure_method.jpg,What is the closure method of this surgical wound?,Invisible,multi_choice
+653.jpg_healing_status,validation\images\653.jpg_healing_status.jpg,What is the healing status of this surgical healing?,Healed,multi_choice
+653.jpg_urgency_level,validation\images\653.jpg_urgency_level.jpg,What is the urgency level of this surgical wound?,Home Care (Green): Manage with routine care,multi_choice
+653.jpg_edema,validation\images\653.jpg_edema.jpg,Has edema developed in this surgical wound?,Non-existent,multi_choice
+653.jpg_infection_risk_assessment,validation\images\653.jpg_infection_risk_assessment.jpg,What is the infection risk assessment of this surgical wound?,Low,multi_choice
+666.jpg_erythema,validation\images\666.jpg_erythema.jpg,Has erythema developed in this surgical wound?,Non-existent,multi_choice
+666.jpg_healing_status,validation\images\666.jpg_healing_status.jpg,What is the healing status of this surgical healing?,Healed,multi_choice
+666.jpg_infection_risk_assessment,validation\images\666.jpg_infection_risk_assessment.jpg,What is the infection risk assessment of this surgical wound?,Low,multi_choice
+666.jpg_edema,validation\images\666.jpg_edema.jpg,Has edema developed in this surgical wound?,Non-existent,multi_choice
+666.jpg_urgency_level,validation\images\666.jpg_urgency_level.jpg,What is the urgency level of this surgical wound?,Home Care (Green): Manage with routine care,multi_choice
+666.jpg_exudate_type,validation\images\666.jpg_exudate_type.jpg,What is the exudate type of this surgical wound?,Non-existent,multi_choice
+666.jpg_closure_method,validation\images\666.jpg_closure_method.jpg,What is the closure method of this surgical wound?,Sutures,multi_choice
+666.jpg_wound_location,validation\images\666.jpg_wound_location.jpg,What is the wound location of this surgical wound?,Facial region,multi_choice
+671.jpg_wound_location,validation\images\671.jpg_wound_location.jpg,What is the wound location of this surgical wound?,Abdomen,multi_choice
+671.jpg_erythema,validation\images\671.jpg_erythema.jpg,Has erythema developed in this surgical wound?,Non-existent,multi_choice
+671.jpg_exudate_type,validation\images\671.jpg_exudate_type.jpg,What is the exudate type of this surgical wound?,Non-existent,multi_choice
+671.jpg_closure_method,validation\images\671.jpg_closure_method.jpg,What is the closure method of this surgical wound?,Sutures,multi_choice
+671.jpg_healing_status,validation\images\671.jpg_healing_status.jpg,What is the healing status of this surgical healing?,Not Healed,multi_choice
+671.jpg_infection_risk_assessment,validation\images\671.jpg_infection_risk_assessment.jpg,What is the infection risk assessment of this surgical wound?,Low,multi_choice
+671.jpg_urgency_level,validation\images\671.jpg_urgency_level.jpg,What is the urgency level of this surgical wound?,Home Care (Green): Manage with routine care,multi_choice
+671.jpg_edema,validation\images\671.jpg_edema.jpg,Has edema developed in this surgical wound?,Non-existent,multi_choice
+698.jpg_infection_risk_assessment,validation\images\698.jpg_infection_risk_assessment.jpg,What is the infection risk assessment of this surgical wound?,Low,multi_choice
+698.jpg_erythema,validation\images\698.jpg_erythema.jpg,Has erythema developed in this surgical wound?,Non-existent,multi_choice
+698.jpg_exudate_type,validation\images\698.jpg_exudate_type.jpg,What is the exudate type of this surgical wound?,Non-existent,multi_choice
+698.jpg_edema,validation\images\698.jpg_edema.jpg,Has edema developed in this surgical wound?,Non-existent,multi_choice
+698.jpg_urgency_level,validation\images\698.jpg_urgency_level.jpg,What is the urgency level of this surgical wound?,Home Care (Green): Manage with routine care,multi_choice
+698.jpg_closure_method,validation\images\698.jpg_closure_method.jpg,What is the closure method of this surgical wound?,Invisible,multi_choice
+698.jpg_healing_status,validation\images\698.jpg_healing_status.jpg,What is the healing status of this surgical healing?,Healed,multi_choice
+715.jpg_infection_risk_assessment,validation\images\715.jpg_infection_risk_assessment.jpg,What is the infection risk assessment of this surgical wound?,Low,multi_choice
+715.jpg_urgency_level,validation\images\715.jpg_urgency_level.jpg,What is the urgency level of this surgical wound?,Home Care (Green): Manage with routine care,multi_choice
+715.jpg_exudate_type,validation\images\715.jpg_exudate_type.jpg,What is the exudate type of this surgical wound?,Non-existent,multi_choice
+715.jpg_closure_method,validation\images\715.jpg_closure_method.jpg,What is the closure method of this surgical wound?,Invisible,multi_choice
+715.jpg_edema,validation\images\715.jpg_edema.jpg,Has edema developed in this surgical wound?,Non-existent,multi_choice
+715.jpg_erythema,validation\images\715.jpg_erythema.jpg,Has erythema developed in this surgical wound?,Non-existent,multi_choice
+715.jpg_healing_status,validation\images\715.jpg_healing_status.jpg,What is the healing status of this surgical healing?,Not Healed,multi_choice
+715.jpg_wound_location,validation\images\715.jpg_wound_location.jpg,What is the wound location of this surgical wound?,Other,multi_choice
+725.jpg_erythema,validation\images\725.jpg_erythema.jpg,Has erythema developed in this surgical wound?,Non-existent,multi_choice
+725.jpg_edema,validation\images\725.jpg_edema.jpg,Has edema developed in this surgical wound?,Non-existent,multi_choice
+725.jpg_closure_method,validation\images\725.jpg_closure_method.jpg,What is the closure method of this surgical wound?,Invisible,multi_choice
+725.jpg_exudate_type,validation\images\725.jpg_exudate_type.jpg,What is the exudate type of this surgical wound?,Non-existent,multi_choice
+725.jpg_wound_location,validation\images\725.jpg_wound_location.jpg,What is the wound location of this surgical wound?,Cervical region,multi_choice
+725.jpg_healing_status,validation\images\725.jpg_healing_status.jpg,What is the healing status of this surgical healing?,Healed,multi_choice
+725.jpg_urgency_level,validation\images\725.jpg_urgency_level.jpg,What is the urgency level of this surgical wound?,Home Care (Green): Manage with routine care,multi_choice
+725.jpg_infection_risk_assessment,validation\images\725.jpg_infection_risk_assessment.jpg,What is the infection risk assessment of this surgical wound?,Low,multi_choice
+731.jpg_urgency_level,validation\images\731.jpg_urgency_level.jpg,What is the urgency level of this surgical wound?,Home Care (Green): Manage with routine care,multi_choice
+731.jpg_infection_risk_assessment,validation\images\731.jpg_infection_risk_assessment.jpg,What is the infection risk assessment of this surgical wound?,Low,multi_choice
+731.jpg_erythema,validation\images\731.jpg_erythema.jpg,Has erythema developed in this surgical wound?,Non-existent,multi_choice
+731.jpg_exudate_type,validation\images\731.jpg_exudate_type.jpg,What is the exudate type of this surgical wound?,Non-existent,multi_choice
+731.jpg_closure_method,validation\images\731.jpg_closure_method.jpg,What is the closure method of this surgical wound?,Invisible,multi_choice
+731.jpg_healing_status,validation\images\731.jpg_healing_status.jpg,What is the healing status of this surgical healing?,Healed,multi_choice
+736.jpg_wound_location,validation\images\736.jpg_wound_location.jpg,What is the wound location of this surgical wound?,Abdomen,multi_choice
+736.jpg_healing_status,validation\images\736.jpg_healing_status.jpg,What is the healing status of this surgical healing?,Not Healed,multi_choice
+736.jpg_closure_method,validation\images\736.jpg_closure_method.jpg,What is the closure method of this surgical wound?,Sutures,multi_choice
+736.jpg_exudate_type,validation\images\736.jpg_exudate_type.jpg,What is the exudate type of this surgical wound?,Non-existent,multi_choice
+736.jpg_erythema,validation\images\736.jpg_erythema.jpg,Has erythema developed in this surgical wound?,Non-existent,multi_choice
+736.jpg_edema,validation\images\736.jpg_edema.jpg,Has edema developed in this surgical wound?,Non-existent,multi_choice
+736.jpg_urgency_level,validation\images\736.jpg_urgency_level.jpg,What is the urgency level of this surgical wound?,Home Care (Green): Manage with routine care,multi_choice
+736.jpg_infection_risk_assessment,validation\images\736.jpg_infection_risk_assessment.jpg,What is the infection risk assessment of this surgical wound?,Low,multi_choice
+750.jpg_erythema,validation\images\750.jpg_erythema.jpg,Has erythema developed in this surgical wound?,Non-existent,multi_choice
+750.jpg_edema,validation\images\750.jpg_edema.jpg,Has edema developed in this surgical wound?,Non-existent,multi_choice
+750.jpg_infection_risk_assessment,validation\images\750.jpg_infection_risk_assessment.jpg,What is the infection risk assessment of this surgical wound?,Low,multi_choice
+750.jpg_urgency_level,validation\images\750.jpg_urgency_level.jpg,What is the urgency level of this surgical wound?,Home Care (Green): Manage with routine care,multi_choice
+750.jpg_healing_status,validation\images\750.jpg_healing_status.jpg,What is the healing status of this surgical healing?,Healed,multi_choice
+750.jpg_exudate_type,validation\images\750.jpg_exudate_type.jpg,What is the exudate type of this surgical wound?,Non-existent,multi_choice
+753.jpg_urgency_level,validation\images\753.jpg_urgency_level.jpg,What is the urgency level of this surgical wound?,Home Care (Green): Manage with routine care,multi_choice
+753.jpg_edema,validation\images\753.jpg_edema.jpg,Has edema developed in this surgical wound?,Non-existent,multi_choice
+753.jpg_exudate_type,validation\images\753.jpg_exudate_type.jpg,What is the exudate type of this surgical wound?,Non-existent,multi_choice
+753.jpg_wound_location,validation\images\753.jpg_wound_location.jpg,What is the wound location of this surgical wound?,Patella,multi_choice
+753.jpg_healing_status,validation\images\753.jpg_healing_status.jpg,What is the healing status of this surgical healing?,Healed,multi_choice
+753.jpg_closure_method,validation\images\753.jpg_closure_method.jpg,What is the closure method of this surgical wound?,Sutures,multi_choice
+753.jpg_erythema,validation\images\753.jpg_erythema.jpg,Has erythema developed in this surgical wound?,Non-existent,multi_choice
+753.jpg_infection_risk_assessment,validation\images\753.jpg_infection_risk_assessment.jpg,What is the infection risk assessment of this surgical wound?,Low,multi_choice
+755.jpg_closure_method,validation\images\755.jpg_closure_method.jpg,What is the closure method of this surgical wound?,Sutures,multi_choice
+755.jpg_infection_risk_assessment,validation\images\755.jpg_infection_risk_assessment.jpg,What is the infection risk assessment of this surgical wound?,Low,multi_choice
+755.jpg_edema,validation\images\755.jpg_edema.jpg,Has edema developed in this surgical wound?,Non-existent,multi_choice
+755.jpg_urgency_level,validation\images\755.jpg_urgency_level.jpg,What is the urgency level of this surgical wound?,Home Care (Green): Manage with routine care,multi_choice
+755.jpg_healing_status,validation\images\755.jpg_healing_status.jpg,What is the healing status of this surgical healing?,Not Healed,multi_choice
+755.jpg_exudate_type,validation\images\755.jpg_exudate_type.jpg,What is the exudate type of this surgical wound?,Non-existent,multi_choice
+755.jpg_erythema,validation\images\755.jpg_erythema.jpg,Has erythema developed in this surgical wound?,Non-existent,multi_choice
+755.jpg_wound_location,validation\images\755.jpg_wound_location.jpg,What is the wound location of this surgical wound?,Abdomen,multi_choice
+761.jpg_healing_status,validation\images\761.jpg_healing_status.jpg,What is the healing status of this surgical healing?,Not Healed,multi_choice
+761.jpg_urgency_level,validation\images\761.jpg_urgency_level.jpg,What is the urgency level of this surgical wound?,Home Care (Green): Manage with routine care,multi_choice
+761.jpg_infection_risk_assessment,validation\images\761.jpg_infection_risk_assessment.jpg,What is the infection risk assessment of this surgical wound?,Low,multi_choice
+761.jpg_closure_method,validation\images\761.jpg_closure_method.jpg,What is the closure method of this surgical wound?,Sutures,multi_choice
+761.jpg_edema,validation\images\761.jpg_edema.jpg,Has edema developed in this surgical wound?,Existent,multi_choice
+761.jpg_wound_location,validation\images\761.jpg_wound_location.jpg,What is the wound location of this surgical wound?,Ankle,multi_choice
+797.jpg_erythema,validation\images\797.jpg_erythema.jpg,Has erythema developed in this surgical wound?,Non-existent,multi_choice
+797.jpg_exudate_type,validation\images\797.jpg_exudate_type.jpg,What is the exudate type of this surgical wound?,Non-existent,multi_choice
+797.jpg_urgency_level,validation\images\797.jpg_urgency_level.jpg,What is the urgency level of this surgical wound?,Home Care (Green): Manage with routine care,multi_choice
+797.jpg_wound_location,validation\images\797.jpg_wound_location.jpg,What is the wound location of this surgical wound?,Abdomen,multi_choice
+797.jpg_healing_status,validation\images\797.jpg_healing_status.jpg,What is the healing status of this surgical healing?,Healed,multi_choice
+797.jpg_closure_method,validation\images\797.jpg_closure_method.jpg,What is the closure method of this surgical wound?,Invisible,multi_choice
+797.jpg_infection_risk_assessment,validation\images\797.jpg_infection_risk_assessment.jpg,What is the infection risk assessment of this surgical wound?,Low,multi_choice
+797.jpg_edema,validation\images\797.jpg_edema.jpg,Has edema developed in this surgical wound?,Non-existent,multi_choice
+798.jpg_healing_status,validation\images\798.jpg_healing_status.jpg,What is the healing status of this surgical healing?,Healed,multi_choice
+798.jpg_infection_risk_assessment,validation\images\798.jpg_infection_risk_assessment.jpg,What is the infection risk assessment of this surgical wound?,Low,multi_choice
+798.jpg_erythema,validation\images\798.jpg_erythema.jpg,Has erythema developed in this surgical wound?,Non-existent,multi_choice
+798.jpg_exudate_type,validation\images\798.jpg_exudate_type.jpg,What is the exudate type of this surgical wound?,Non-existent,multi_choice
+798.jpg_edema,validation\images\798.jpg_edema.jpg,Has edema developed in this surgical wound?,Non-existent,multi_choice
+798.jpg_urgency_level,validation\images\798.jpg_urgency_level.jpg,What is the urgency level of this surgical wound?,Home Care (Green): Manage with routine care,multi_choice
+804.jpg_wound_location,validation\images\804.jpg_wound_location.jpg,What is the wound location of this surgical wound?,Facial region,multi_choice
+804.jpg_infection_risk_assessment,validation\images\804.jpg_infection_risk_assessment.jpg,What is the infection risk assessment of this surgical wound?,Low,multi_choice
+804.jpg_erythema,validation\images\804.jpg_erythema.jpg,Has erythema developed in this surgical wound?,Existent,multi_choice
+804.jpg_urgency_level,validation\images\804.jpg_urgency_level.jpg,What is the urgency level of this surgical wound?,Home Care (Green): Manage with routine care,multi_choice
+804.jpg_edema,validation\images\804.jpg_edema.jpg,Has edema developed in this surgical wound?,Non-existent,multi_choice
+804.jpg_healing_status,validation\images\804.jpg_healing_status.jpg,What is the healing status of this surgical healing?,Not Healed,multi_choice
+804.jpg_exudate_type,validation\images\804.jpg_exudate_type.jpg,What is the exudate type of this surgical wound?,Non-existent,multi_choice
+804.jpg_closure_method,validation\images\804.jpg_closure_method.jpg,What is the closure method of this surgical wound?,Sutures,multi_choice
+810.jpg_healing_status,validation\images\810.jpg_healing_status.jpg,What is the healing status of this surgical healing?,Not Healed,multi_choice
+810.jpg_urgency_level,validation\images\810.jpg_urgency_level.jpg,What is the urgency level of this surgical wound?,Home Care (Green): Manage with routine care,multi_choice
+810.jpg_closure_method,validation\images\810.jpg_closure_method.jpg,What is the closure method of this surgical wound?,Sutures,multi_choice
+810.jpg_exudate_type,validation\images\810.jpg_exudate_type.jpg,What is the exudate type of this surgical wound?,Non-existent,multi_choice
+810.jpg_infection_risk_assessment,validation\images\810.jpg_infection_risk_assessment.jpg,What is the infection risk assessment of this surgical wound?,Low,multi_choice
+810.jpg_wound_location,validation\images\810.jpg_wound_location.jpg,What is the wound location of this surgical wound?,Facial region,multi_choice
+810.jpg_edema,validation\images\810.jpg_edema.jpg,Has edema developed in this surgical wound?,Non-existent,multi_choice
+810.jpg_erythema,validation\images\810.jpg_erythema.jpg,Has erythema developed in this surgical wound?,Non-existent,multi_choice
+837.jpg_closure_method,validation\images\837.jpg_closure_method.jpg,What is the closure method of this surgical wound?,Sutures,multi_choice
+837.jpg_infection_risk_assessment,validation\images\837.jpg_infection_risk_assessment.jpg,What is the infection risk assessment of this surgical wound?,Low,multi_choice
+837.jpg_edema,validation\images\837.jpg_edema.jpg,Has edema developed in this surgical wound?,Non-existent,multi_choice
+837.jpg_urgency_level,validation\images\837.jpg_urgency_level.jpg,What is the urgency level of this surgical wound?,Home Care (Green): Manage with routine care,multi_choice
+837.jpg_erythema,validation\images\837.jpg_erythema.jpg,Has erythema developed in this surgical wound?,Non-existent,multi_choice
+837.jpg_healing_status,validation\images\837.jpg_healing_status.jpg,What is the healing status of this surgical healing?,Healed,multi_choice
+837.jpg_exudate_type,validation\images\837.jpg_exudate_type.jpg,What is the exudate type of this surgical wound?,Non-existent,multi_choice
+890.jpg_exudate_type,validation\images\890.jpg_exudate_type.jpg,What is the exudate type of this surgical wound?,Non-existent,multi_choice
+890.jpg_edema,validation\images\890.jpg_edema.jpg,Has edema developed in this surgical wound?,Non-existent,multi_choice
+890.jpg_erythema,validation\images\890.jpg_erythema.jpg,Has erythema developed in this surgical wound?,Non-existent,multi_choice
+890.jpg_infection_risk_assessment,validation\images\890.jpg_infection_risk_assessment.jpg,What is the infection risk assessment of this surgical wound?,Low,multi_choice
+890.jpg_urgency_level,validation\images\890.jpg_urgency_level.jpg,What is the urgency level of this surgical wound?,Home Care (Green): Manage with routine care,multi_choice
+890.jpg_wound_location,validation\images\890.jpg_wound_location.jpg,What is the wound location of this surgical wound?,Abdomen,multi_choice
+890.jpg_healing_status,validation\images\890.jpg_healing_status.jpg,What is the healing status of this surgical healing?,Healed,multi_choice
+890.jpg_closure_method,validation\images\890.jpg_closure_method.jpg,What is the closure method of this surgical wound?,Sutures,multi_choice
+945.jpg_healing_status,validation\images\945.jpg_healing_status.jpg,What is the healing status of this surgical healing?,Healed,multi_choice
+945.jpg_edema,validation\images\945.jpg_edema.jpg,Has edema developed in this surgical wound?,Non-existent,multi_choice
+945.jpg_erythema,validation\images\945.jpg_erythema.jpg,Has erythema developed in this surgical wound?,Non-existent,multi_choice
+945.jpg_infection_risk_assessment,validation\images\945.jpg_infection_risk_assessment.jpg,What is the infection risk assessment of this surgical wound?,Low,multi_choice
+945.jpg_urgency_level,validation\images\945.jpg_urgency_level.jpg,What is the urgency level of this surgical wound?,Home Care (Green): Manage with routine care,multi_choice
+945.jpg_wound_location,validation\images\945.jpg_wound_location.jpg,What is the wound location of this surgical wound?,Abdomen,multi_choice
+945.jpg_closure_method,validation\images\945.jpg_closure_method.jpg,What is the closure method of this surgical wound?,Sutures,multi_choice
+945.jpg_exudate_type,validation\images\945.jpg_exudate_type.jpg,What is the exudate type of this surgical wound?,Non-existent,multi_choice
+971.jpg_wound_location,validation\images\971.jpg_wound_location.jpg,What is the wound location of this surgical wound?,Abdomen,multi_choice
+971.jpg_urgency_level,validation\images\971.jpg_urgency_level.jpg,What is the urgency level of this surgical wound?,Home Care (Green): Manage with routine care,multi_choice
+971.jpg_infection_risk_assessment,validation\images\971.jpg_infection_risk_assessment.jpg,What is the infection risk assessment of this surgical wound?,Medium,multi_choice
+971.jpg_healing_status,validation\images\971.jpg_healing_status.jpg,What is the healing status of this surgical healing?,Not Healed,multi_choice
+971.jpg_closure_method,validation\images\971.jpg_closure_method.jpg,What is the closure method of this surgical wound?,Sutures,multi_choice
+971.jpg_erythema,validation\images\971.jpg_erythema.jpg,Has erythema developed in this surgical wound?,Existent,multi_choice
+976.jpg_healing_status,validation\images\976.jpg_healing_status.jpg,What is the healing status of this surgical healing?,Healed,multi_choice
+976.jpg_wound_location,validation\images\976.jpg_wound_location.jpg,What is the wound location of this surgical wound?,Ankle,multi_choice
+976.jpg_erythema,validation\images\976.jpg_erythema.jpg,Has erythema developed in this surgical wound?,Non-existent,multi_choice
+976.jpg_edema,validation\images\976.jpg_edema.jpg,Has edema developed in this surgical wound?,Non-existent,multi_choice
+976.jpg_infection_risk_assessment,validation\images\976.jpg_infection_risk_assessment.jpg,What is the infection risk assessment of this surgical wound?,Low,multi_choice
+976.jpg_exudate_type,validation\images\976.jpg_exudate_type.jpg,What is the exudate type of this surgical wound?,Non-existent,multi_choice
+976.jpg_urgency_level,validation\images\976.jpg_urgency_level.jpg,What is the urgency level of this surgical wound?,Home Care (Green): Manage with routine care,multi_choice
+979.jpg_edema,validation\images\979.jpg_edema.jpg,Has edema developed in this surgical wound?,Non-existent,multi_choice
+979.jpg_erythema,validation\images\979.jpg_erythema.jpg,Has erythema developed in this surgical wound?,Non-existent,multi_choice
+979.jpg_closure_method,validation\images\979.jpg_closure_method.jpg,What is the closure method of this surgical wound?,Sutures,multi_choice
+979.jpg_infection_risk_assessment,validation\images\979.jpg_infection_risk_assessment.jpg,What is the infection risk assessment of this surgical wound?,Low,multi_choice
+979.jpg_healing_status,validation\images\979.jpg_healing_status.jpg,What is the healing status of this surgical healing?,Healed,multi_choice
+979.jpg_exudate_type,validation\images\979.jpg_exudate_type.jpg,What is the exudate type of this surgical wound?,Non-existent,multi_choice
+979.jpg_wound_location,validation\images\979.jpg_wound_location.jpg,What is the wound location of this surgical wound?,Other,multi_choice
+979.jpg_urgency_level,validation\images\979.jpg_urgency_level.jpg,What is the urgency level of this surgical wound?,Home Care (Green): Manage with routine care,multi_choice
+988.jpg_healing_status,validation\images\988.jpg_healing_status.jpg,What is the healing status of this surgical healing?,Not Healed,multi_choice
+988.jpg_exudate_type,validation\images\988.jpg_exudate_type.jpg,What is the exudate type of this surgical wound?,Non-existent,multi_choice
+988.jpg_wound_location,validation\images\988.jpg_wound_location.jpg,What is the wound location of this surgical wound?,Other,multi_choice
+988.jpg_edema,validation\images\988.jpg_edema.jpg,Has edema developed in this surgical wound?,Existent,multi_choice
+988.jpg_urgency_level,validation\images\988.jpg_urgency_level.jpg,What is the urgency level of this surgical wound?,Clinic Visit (Yellow): Requires professional evaluation within 48 hours,multi_choice
+988.jpg_infection_risk_assessment,validation\images\988.jpg_infection_risk_assessment.jpg,What is the infection risk assessment of this surgical wound?,Medium,multi_choice
+988.jpg_erythema,validation\images\988.jpg_erythema.jpg,Has erythema developed in this surgical wound?,Non-existent,multi_choice
+1005.jpg_erythema,validation\images\1005.jpg_erythema.jpg,Has erythema developed in this surgical wound?,Non-existent,multi_choice
+1005.jpg_urgency_level,validation\images\1005.jpg_urgency_level.jpg,What is the urgency level of this surgical wound?,Home Care (Green): Manage with routine care,multi_choice
+1005.jpg_infection_risk_assessment,validation\images\1005.jpg_infection_risk_assessment.jpg,What is the infection risk assessment of this surgical wound?,Low,multi_choice
+1005.jpg_exudate_type,validation\images\1005.jpg_exudate_type.jpg,What is the exudate type of this surgical wound?,Non-existent,multi_choice
+1005.jpg_healing_status,validation\images\1005.jpg_healing_status.jpg,What is the healing status of this surgical healing?,Healed,multi_choice
+1005.jpg_edema,validation\images\1005.jpg_edema.jpg,Has edema developed in this surgical wound?,Non-existent,multi_choice
